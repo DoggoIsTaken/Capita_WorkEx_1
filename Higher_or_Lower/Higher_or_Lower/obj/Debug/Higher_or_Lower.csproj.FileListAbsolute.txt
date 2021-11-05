@@ -1,0 +1,7 @@
+C:\Users\henry\source\repos\Higher_or_Lower\Higher_or_Lower\bin\Debug\Higher_or_Lower.exe.config
+C:\Users\henry\source\repos\Higher_or_Lower\Higher_or_Lower\bin\Debug\Higher_or_Lower.exe
+C:\Users\henry\source\repos\Higher_or_Lower\Higher_or_Lower\bin\Debug\Higher_or_Lower.pdb
+C:\Users\henry\source\repos\Higher_or_Lower\Higher_or_Lower\obj\Debug\Higher_or_Lower.csproj.AssemblyReference.cache
+C:\Users\henry\source\repos\Higher_or_Lower\Higher_or_Lower\obj\Debug\Higher_or_Lower.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\Higher_or_Lower\Higher_or_Lower\obj\Debug\Higher_or_Lower.exe
+C:\Users\henry\source\repos\Higher_or_Lower\Higher_or_Lower\obj\Debug\Higher_or_Lower.pdb
