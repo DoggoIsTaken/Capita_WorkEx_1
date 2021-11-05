@@ -1,0 +1,7 @@
+C:\Users\henry\source\repos\Problems\Longest_Sequence\bin\Debug\Longest_Sequence.exe.config
+C:\Users\henry\source\repos\Problems\Longest_Sequence\bin\Debug\Longest_Sequence.exe
+C:\Users\henry\source\repos\Problems\Longest_Sequence\bin\Debug\Longest_Sequence.pdb
+C:\Users\henry\source\repos\Problems\Longest_Sequence\obj\Debug\Longest_Sequence.csproj.AssemblyReference.cache
+C:\Users\henry\source\repos\Problems\Longest_Sequence\obj\Debug\Longest_Sequence.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\Problems\Longest_Sequence\obj\Debug\Longest_Sequence.exe
+C:\Users\henry\source\repos\Problems\Longest_Sequence\obj\Debug\Longest_Sequence.pdb

@@ -1,0 +1,7 @@
+C:\Users\henry\source\repos\Problems\HalfDiamond\bin\Debug\HalfDiamond.exe.config
+C:\Users\henry\source\repos\Problems\HalfDiamond\bin\Debug\HalfDiamond.exe
+C:\Users\henry\source\repos\Problems\HalfDiamond\bin\Debug\HalfDiamond.pdb
+C:\Users\henry\source\repos\Problems\HalfDiamond\obj\Debug\HalfDiamond.csproj.AssemblyReference.cache
+C:\Users\henry\source\repos\Problems\HalfDiamond\obj\Debug\HalfDiamond.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\Problems\HalfDiamond\obj\Debug\HalfDiamond.exe
+C:\Users\henry\source\repos\Problems\HalfDiamond\obj\Debug\HalfDiamond.pdb

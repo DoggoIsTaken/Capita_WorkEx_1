@@ -1,0 +1,7 @@
+C:\Users\henry\source\repos\Problems\Problems\bin\Debug\Problems.exe.config
+C:\Users\henry\source\repos\Problems\Problems\bin\Debug\Problems.exe
+C:\Users\henry\source\repos\Problems\Problems\bin\Debug\Problems.pdb
+C:\Users\henry\source\repos\Problems\Problems\obj\Debug\StringReversal.csproj.AssemblyReference.cache
+C:\Users\henry\source\repos\Problems\Problems\obj\Debug\StringReversal.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\Problems\Problems\obj\Debug\Problems.exe
+C:\Users\henry\source\repos\Problems\Problems\obj\Debug\Problems.pdb

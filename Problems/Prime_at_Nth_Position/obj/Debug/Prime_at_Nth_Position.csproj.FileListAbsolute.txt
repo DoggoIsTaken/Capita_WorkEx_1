@@ -1,0 +1,7 @@
+C:\Users\henry\source\repos\Problems\Prime_at_Nth_Position\bin\Debug\Prime_at_Nth_Position.exe.config
+C:\Users\henry\source\repos\Problems\Prime_at_Nth_Position\bin\Debug\Prime_at_Nth_Position.exe
+C:\Users\henry\source\repos\Problems\Prime_at_Nth_Position\bin\Debug\Prime_at_Nth_Position.pdb
+C:\Users\henry\source\repos\Problems\Prime_at_Nth_Position\obj\Debug\Prime_at_Nth_Position.csproj.AssemblyReference.cache
+C:\Users\henry\source\repos\Problems\Prime_at_Nth_Position\obj\Debug\Prime_at_Nth_Position.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\Problems\Prime_at_Nth_Position\obj\Debug\Prime_at_Nth_Position.exe
+C:\Users\henry\source\repos\Problems\Prime_at_Nth_Position\obj\Debug\Prime_at_Nth_Position.pdb

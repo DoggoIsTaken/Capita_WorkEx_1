@@ -1,0 +1,6 @@
+C:\Users\henry\source\repos\Problems\Anagram\bin\Debug\Anagram.exe.config
+C:\Users\henry\source\repos\Problems\Anagram\bin\Debug\Anagram.exe
+C:\Users\henry\source\repos\Problems\Anagram\bin\Debug\Anagram.pdb
+C:\Users\henry\source\repos\Problems\Anagram\obj\Debug\Anagram.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\Problems\Anagram\obj\Debug\Anagram.exe
+C:\Users\henry\source\repos\Problems\Anagram\obj\Debug\Anagram.pdb
